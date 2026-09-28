@@ -2,7 +2,7 @@
   "mcpServers": {
     "firmledger": {
       "type": "http",
-      "url": "https://firmledger.co.ke/mcp"
+      "url": "https://mcp.firmledger.co.ke/mcp"
     }
   }
 }
